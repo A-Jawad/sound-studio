@@ -1,4 +1,8 @@
-﻿using System;
+// Sound studio
+// By Ahmed Jawad
+// C# sample code for windows
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
